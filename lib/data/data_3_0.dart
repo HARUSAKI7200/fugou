@@ -1,0 +1,186 @@
+import '../symbol_data.dart';
+final List<SymbolData> data_3_0 = [
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '100', innerHeight: '100', symbol: '11'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '100', innerHeight: '150', symbol: '11'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '100', innerHeight: '200', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '100', innerHeight: '250', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '100', innerHeight: '300', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '100', innerHeight: '350', symbol: '23'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '150', innerHeight: '100', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '150', innerHeight: '150', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '150', innerHeight: '200', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '150', innerHeight: '250', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '150', innerHeight: '300', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '150', innerHeight: '350', symbol: '23'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '200', innerHeight: '100', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '200', innerHeight: '150', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '200', innerHeight: '200', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '200', innerHeight: '250', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '200', innerHeight: '300', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '200', innerHeight: '350', symbol: '32'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '250', innerHeight: '100', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '250', innerHeight: '150', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '250', innerHeight: '200', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '250', innerHeight: '250', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '250', innerHeight: '300', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '250', innerHeight: '350', symbol: '42'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '300', innerHeight: '100', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '300', innerHeight: '150', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '300', innerHeight: '200', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '300', innerHeight: '250', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '300', innerHeight: '300', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '60以下', outerWidth: '300', innerHeight: '350', symbol: '52'),
+
+
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '100', innerHeight: '100', symbol: '11'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '100', innerHeight: '150', symbol: '11'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '100', innerHeight: '200', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '100', innerHeight: '250', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '100', innerHeight: '300', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '100', innerHeight: '350', symbol: '23'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '150', innerHeight: '100', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '150', innerHeight: '150', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '150', innerHeight: '200', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '150', innerHeight: '250', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '150', innerHeight: '300', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '150', innerHeight: '350', symbol: '23'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '200', innerHeight: '100', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '200', innerHeight: '150', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '200', innerHeight: '200', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '200', innerHeight: '250', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '200', innerHeight: '300', symbol: '23'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '200', innerHeight: '350', symbol: '33'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '250', innerHeight: '100', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '250', innerHeight: '150', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '250', innerHeight: '200', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '250', innerHeight: '250', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '250', innerHeight: '300', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '250', innerHeight: '350', symbol: '43'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '300', innerHeight: '100', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '300', innerHeight: '150', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '300', innerHeight: '200', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '300', innerHeight: '250', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '300', innerHeight: '300', symbol: '33'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '75以下', outerWidth: '300', innerHeight: '350', symbol: '52'),
+
+
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '100', innerHeight: '100', symbol: '11'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '100', innerHeight: '150', symbol: '11'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '100', innerHeight: '200', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '100', innerHeight: '250', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '100', innerHeight: '300', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '100', innerHeight: '350', symbol: '23'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '150', innerHeight: '100', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '150', innerHeight: '150', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '150', innerHeight: '200', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '150', innerHeight: '250', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '150', innerHeight: '300', symbol: '23'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '150', innerHeight: '350', symbol: '32'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '200', innerHeight: '100', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '200', innerHeight: '150', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '200', innerHeight: '200', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '200', innerHeight: '250', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '200', innerHeight: '300', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '200', innerHeight: '350', symbol: '34'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '250', innerHeight: '100', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '250', innerHeight: '150', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '250', innerHeight: '200', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '250', innerHeight: '250', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '250', innerHeight: '300', symbol: '33'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '250', innerHeight: '350', symbol: '44'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '300', innerHeight: '100', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '300', innerHeight: '150', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '300', innerHeight: '200', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '300', innerHeight: '250', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '300', innerHeight: '300', symbol: '34'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '91以下', outerWidth: '300', innerHeight: '350', symbol: '53'),
+
+
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '100', innerHeight: '100', symbol: '11'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '100', innerHeight: '150', symbol: '11'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '100', innerHeight: '200', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '100', innerHeight: '250', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '100', innerHeight: '300', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '100', innerHeight: '350', symbol: '23'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '150', innerHeight: '100', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '150', innerHeight: '150', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '150', innerHeight: '200', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '150', innerHeight: '250', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '150', innerHeight: '300', symbol: '23'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '150', innerHeight: '350', symbol: '33'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '200', innerHeight: '100', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '200', innerHeight: '150', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '200', innerHeight: '200', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '200', innerHeight: '250', symbol: '23'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '200', innerHeight: '300', symbol: '33'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '200', innerHeight: '350', symbol: '34'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '250', innerHeight: '100', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '250', innerHeight: '150', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '250', innerHeight: '200', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '250', innerHeight: '250', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '250', innerHeight: '300', symbol: '34'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '250', innerHeight: '350', symbol: '44'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '300', innerHeight: '100', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '300', innerHeight: '150', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '300', innerHeight: '200', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '300', innerHeight: '250', symbol: '33'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '300', innerHeight: '300', symbol: '44'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '105以下', outerWidth: '300', innerHeight: '350', symbol: '54'),
+
+
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '100', innerHeight: '100', symbol: '11'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '100', innerHeight: '150', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '100', innerHeight: '200', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '100', innerHeight: '250', symbol: '12'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '100', innerHeight: '300', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '100', innerHeight: '350', symbol: '23'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '150', innerHeight: '100', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '150', innerHeight: '150', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '150', innerHeight: '200', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '150', innerHeight: '250', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '150', innerHeight: '300', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '150', innerHeight: '350', symbol: '34'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '200', innerHeight: '100', symbol: '21'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '200', innerHeight: '150', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '200', innerHeight: '200', symbol: '22'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '200', innerHeight: '250', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '200', innerHeight: '300', symbol: '34'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '200', innerHeight: '350', symbol: '34'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '250', innerHeight: '100', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '250', innerHeight: '150', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '250', innerHeight: '200', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '250', innerHeight: '250', symbol: '33'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '250', innerHeight: '300', symbol: '34'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '250', innerHeight: '350', symbol: '45'),
+
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '300', innerHeight: '100', symbol: '31'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '300', innerHeight: '150', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '300', innerHeight: '200', symbol: '32'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '300', innerHeight: '250', symbol: '34'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '300', innerHeight: '300', symbol: '45'),
+    SymbolData(contentQuality: '3.0', supportSpacing: '123以下', outerWidth: '300', innerHeight: '350', symbol: '54'),
+];
